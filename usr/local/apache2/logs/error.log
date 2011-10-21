@@ -1,0 +1,104 @@
+[Fri Oct 21 17:07:25 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 17:07:25 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 17:07:25 2011] [notice] Parent: Created child process 2072
+Apache server shutdown initiated...
+Child 2072: Child process is running
+[Fri Oct 21 17:07:27 2011] [notice] Child 2072: Acquired the start mutex.
+[Fri Oct 21 17:07:27 2011] [notice] Child 2072: Starting 250 worker threads.
+[Fri Oct 21 17:07:28 2011] [notice] Child 2072: Starting thread to listen on port 80.
+[Fri Oct 21 17:15:52 2011] [error] [client 127.0.0.1] File does not exist: C:/UniServer/www/drupal-7.8, referer: http://localhost/drupal-7.8/install.php?profile=standard
+[Fri Oct 21 17:17:47 2011] [error] [client 127.0.0.1] File does not exist: C:/UniServer/www/wordpress
+[Fri Oct 21 17:22:28 2011] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 21 17:22:28 2011] [notice] Child 2072: Exit event signaled. Child process is ending.
+[Fri Oct 21 17:22:29 2011] [notice] Child 2072: Released the start mutex
+[Fri Oct 21 17:22:30 2011] [notice] Child 2072: All worker threads have exited.
+[Fri Oct 21 17:22:31 2011] [notice] Child 2072: Child process is exiting
+[Fri Oct 21 17:22:31 2011] [notice] Parent: Child process exited successfully.
+[Fri Oct 21 17:26:32 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 17:26:32 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 17:26:32 2011] [notice] Parent: Created child process 2760
+[Fri Oct 21 17:26:34 2011] [notice] Child 2760: Child process is running
+[Fri Oct 21 17:26:34 2011] [notice] Child 2760: Acquired the start mutex.
+[Fri Oct 21 17:26:34 2011] [notice] Child 2760: Starting 250 worker threads.
+[Fri Oct 21 17:26:34 2011] [notice] Child 2760: Starting thread to listen on port 80.
+[Fri Oct 21 17:28:42 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\install.inc on line 617
+[Fri Oct 21 17:28:42 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\install.inc on line 618
+[Fri Oct 21 17:29:38 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\install.inc on line 617
+[Fri Oct 21 17:29:38 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\install.inc on line 618
+[Fri Oct 21 17:29:57 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\bootstrap.inc on line 725
+[Fri Oct 21 17:29:57 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\bootstrap.inc on line 726
+[Fri Oct 21 17:29:57 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\bootstrap.inc on line 727
+[Fri Oct 21 17:29:57 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\bootstrap.inc on line 728
+[Fri Oct 21 17:29:58 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\install.inc on line 617
+[Fri Oct 21 17:29:58 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\install.inc on line 618
+[Fri Oct 21 17:30:05 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\install.inc on line 617
+[Fri Oct 21 17:30:05 2011] [error] [client 127.0.0.1] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\\UniServer\\www\\drupal-6.22\\sites\\default\\settings.php:517) in C:\\UniServer\\www\\drupal-6.22\\includes\\install.inc on line 618
+C:/UniServer/msmtp/msmtp.exe: authentication failed (method PLAIN)
+C:/UniServer/msmtp/msmtp.exe: server message: 535 5.0.0 Authentication Failed
+C:/UniServer/msmtp/msmtp.exe: could not send mail (account default from C:/UniServer/msmtp/msmtprc.ini)
+[Fri Oct 21 17:42:18 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 17:42:18 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 17:42:18 2011] [notice] Parent: Created child process 1732
+[Fri Oct 21 17:42:21 2011] [notice] Child 1732: Child process is running
+[Fri Oct 21 17:42:21 2011] [notice] Child 1732: Acquired the start mutex.
+[Fri Oct 21 17:42:21 2011] [notice] Child 1732: Starting 250 worker threads.
+[Fri Oct 21 17:42:21 2011] [notice] Child 1732: Starting thread to listen on port 80.
+[Fri Oct 21 17:43:55 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 17:43:55 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 17:43:55 2011] [notice] Parent: Created child process 1896
+[Fri Oct 21 17:43:57 2011] [notice] Child 1896: Child process is running
+[Fri Oct 21 17:43:57 2011] [notice] Child 1896: Acquired the start mutex.
+[Fri Oct 21 17:43:57 2011] [notice] Child 1896: Starting 250 worker threads.
+[Fri Oct 21 17:43:57 2011] [notice] Child 1896: Starting thread to listen on port 80.
+[Fri Oct 21 17:45:55 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 17:45:55 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 17:45:55 2011] [notice] Parent: Created child process 2300
+[Fri Oct 21 17:45:57 2011] [notice] Child 2300: Child process is running
+[Fri Oct 21 17:45:57 2011] [notice] Child 2300: Acquired the start mutex.
+[Fri Oct 21 17:45:57 2011] [notice] Child 2300: Starting 250 worker threads.
+[Fri Oct 21 17:45:57 2011] [notice] Child 2300: Starting thread to listen on port 80.
+[Fri Oct 21 18:52:25 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 18:52:25 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 18:52:25 2011] [notice] Parent: Created child process 2948
+[Fri Oct 21 18:52:27 2011] [notice] Child 2948: Child process is running
+[Fri Oct 21 18:52:27 2011] [notice] Child 2948: Acquired the start mutex.
+[Fri Oct 21 18:52:27 2011] [notice] Child 2948: Starting 250 worker threads.
+[Fri Oct 21 18:52:27 2011] [notice] Child 2948: Starting thread to listen on port 80.
+[Fri Oct 21 18:57:07 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 18:57:07 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 18:57:07 2011] [notice] Parent: Created child process 3992
+[Fri Oct 21 18:57:08 2011] [notice] Child 3992: Child process is running
+[Fri Oct 21 18:57:08 2011] [notice] Child 3992: Acquired the start mutex.
+[Fri Oct 21 18:57:08 2011] [notice] Child 3992: Starting 250 worker threads.
+[Fri Oct 21 18:57:08 2011] [notice] Child 3992: Starting thread to listen on port 80.
+[Fri Oct 21 18:58:32 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 18:58:32 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 18:58:32 2011] [notice] Parent: Created child process 3316
+[Fri Oct 21 18:58:33 2011] [notice] Child 3316: Child process is running
+[Fri Oct 21 18:58:33 2011] [notice] Child 3316: Acquired the start mutex.
+[Fri Oct 21 18:58:33 2011] [notice] Child 3316: Starting 250 worker threads.
+[Fri Oct 21 18:58:33 2011] [notice] Child 3316: Starting thread to listen on port 80.
+[Fri Oct 21 18:59:26 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 18:59:26 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 18:59:26 2011] [notice] Parent: Created child process 4092
+[Fri Oct 21 18:59:28 2011] [notice] Child 4092: Child process is running
+[Fri Oct 21 18:59:28 2011] [notice] Child 4092: Acquired the start mutex.
+[Fri Oct 21 18:59:28 2011] [notice] Child 4092: Starting 250 worker threads.
+[Fri Oct 21 18:59:28 2011] [notice] Child 4092: Starting thread to listen on port 80.
+[Fri Oct 21 19:06:14 2011] [error] [client 127.0.0.1] PHP Warning:  Invalid argument supplied for foreach() in C:\\UniServer\\home\\admin\\www\\phpinfo.php on line 83, referer: http://localhost/apanel/phpinfo.php
+[Fri Oct 21 19:06:14 2011] [error] [client 127.0.0.1] PHP Warning:  Invalid argument supplied for foreach() in C:\\UniServer\\home\\admin\\www\\phpinfo.php on line 83, referer: http://localhost/apanel/phpinfo.php
+[Fri Oct 21 19:11:22 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 19:11:22 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 19:11:22 2011] [notice] Parent: Created child process 2100
+[Fri Oct 21 19:11:23 2011] [notice] Child 2100: Child process is running
+[Fri Oct 21 19:11:23 2011] [notice] Child 2100: Acquired the start mutex.
+[Fri Oct 21 19:11:23 2011] [notice] Child 2100: Starting 250 worker threads.
+[Fri Oct 21 19:11:23 2011] [notice] Child 2100: Starting thread to listen on port 80.
+[Fri Oct 21 19:32:00 2011] [error] [client 127.0.0.1] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'drupal.semaphore' doesn't exist' in C:\\UniServer\\www\\drupal-7.8\\includes\\database\\database.inc:2137\nStack trace:\n#0 C:\\UniServer\\www\\drupal-7.8\\includes\\database\\database.inc(2137): PDOStatement->execute(Array)\n#1 C:\\UniServer\\www\\drupal-7.8\\includes\\database\\database.inc(664): DatabaseStatementBase->execute(Array, Array)\n#2 C:\\UniServer\\www\\drupal-7.8\\includes\\database\\query.inc(851): DatabaseConnection->query('DELETE FROM {se...', Array, Array)\n#3 C:\\UniServer\\www\\drupal-7.8\\includes\\lock.inc(269): DeleteQuery->execute()\n#4 [internal function]: lock_release_all('14496890654ea20...')\n#5 C:\\UniServer\\www\\drupal-7.8\\includes\\bootstrap.inc(3201): call_user_func_array('lock_release_al...', Array)\n#6 [internal function]: _drupal_shutdown_function()\n#7 {main}\n  thrown in C:\\UniServer\\www\\drupal-7.8\\includes\\database\\database.inc on line 2137
+[Fri Oct 21 19:33:57 2011] [notice] Apache/2.2.19 (Win32) PHP/5.3.6 DAV/2 configured -- resuming normal operations
+[Fri Oct 21 19:33:57 2011] [notice] Server built: May 20 2011 21:39:40
+[Fri Oct 21 19:33:57 2011] [notice] Parent: Created child process 2472
+[Fri Oct 21 19:33:59 2011] [notice] Child 2472: Child process is running
+[Fri Oct 21 19:33:59 2011] [notice] Child 2472: Acquired the start mutex.
+[Fri Oct 21 19:33:59 2011] [notice] Child 2472: Starting 250 worker threads.
+[Fri Oct 21 19:33:59 2011] [notice] Child 2472: Starting thread to listen on port 80.

@@ -1,0 +1,87 @@
+-------------------------
+UniTray FOR UNISERVER !!!
+-------------------------
+
+Hi, and thanks for downloading this great plugin for The Uniform Server.
+The UniTray Plugin is a small tray icon loader that is less than 2MB Plugin 
+for the Uniform Server. It is a unique and very clean Tray icon for the Uniform Server. 
+The main system, Aestan Tray Icon was developed by Onno Broekmans using Borland Delphi for another server and as since then being licensed under the Creative Commons for Public Domain.
+
+Today only those who know about this great work gets to use it and that is what we the developers 
+of The Uniform Server has & shall be doing with this plugin. 
+The UniTray packs most of the needed functions that can also be done in the Admin Panel into 1 Tray Icon! It is fully customizeable by you and fully skinnable. We hope to be releasing a 
+full version when all dev are done but for now not all sections may be complete.
+
+
+-----------------------------
+INSTALLING The UniTray Plugin
+-----------------------------
+
+1. Unpack the Zip or Exe.
+2. Copy the folder UniTray to W:/plugins/ folder.
+   - If using 3.2, make a folder named "plugins" in the W:/ drive.
+3. Copy the files in the folder "Main Folder" to the folder where Start.bat and the others are.
+4. Start the Tray Icon with "Start UniTray.bat" and you are ready to work.
+   - YOu can close the CMD window if it is still open.
+5. Start the server if not started.
+
+
+----------------------
+LITTLE TROUBLESHOOTING
+----------------------
+
+1. If you have installed the Services Plugin and got everything working,
+   edit the UniTray.ini file and delete everywhere you see "diskw/" or
+   you can simply do the find and replace for "diskw/" with "" (nothing).
+2. If else go to our forum at http://forum.uniformserver.com
+3. If a function does not work, send an email to: plugin-unitray@uniformserver.com.
+4. If you like us to add a feature, send an email to: plugin-unitray@uniformserver.com.
+5. If all else, go to http://www.uniformserver.com or follow install instructions!
+
+
+------------------------
+AESTAN TRAY MENU LICENSE
+------------------------
+
+THE SOFTWARE PRODUCT IS PROVIDED "AS IS" AND WITHOUT WARRANTIES AS 
+TO PERFORMANCE OF MERCHANTABILITY OR ANY OTHER WARRANTIES WHETHER 
+EXPRESSED OR IMPLIED. THE USER MUST ASSUME THE ENTIRE RISK OF USING THIS PROGRAM. 
+To the maximum extent permitted by applicable law, in no event 
+shall the author or its suppliers be liable for any special, 
+incidental, indirect, or consequential damages whatsoever (including, 
+without limitation, damages for loss of business profits, business 
+interruption, loss of business information, or any other pecuniary loss) 
+arising out of the use of or inability to use the SOFTWARE PRODUCT, even 
+if the author has been advised of the possibility of such damages.
+
+This work is hereby released into the Public Domain.
+To view a copy of the public domain dedication, visit:
+
+  http://creativecommons.org/licenses/publicdomain/
+
+  or send a letter to:
+
+  Creative Commons
+  559 Nathan Abbott Way
+  Stanford
+  California 94305
+  USA
+
+
+---------------
+UniTray CREDITS
+---------------
+
+ + Onno Broekmans  ->  Aestan Tray Icon - > http://www.onnodb.com/aetraymenu
+ + UniIRC  -> Members of the Uniform Server IRC Channel who brought up the idea.
+           -> IRC: irc.freenode.net#uniserver
+
+
+
+-----------------------------------------------------------
+Copyright 2002-2005 The Uniform Server Development Team
+All rights reserved.
+
+The authors were trying to make the best product so they 
+cannot be held responsible for any type of damage or 
+problems caused by using this or another software.

@@ -1,0 +1,121 @@
+111021 17:07:21 [Note] Plugin 'FEDERATED' is disabled.
+111021 17:07:21 [Note] Plugin 'InnoDB' is disabled.
+111021 17:07:21 [Note] Event Scheduler: Loaded 0 events
+111021 17:07:21 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111021 17:26:29 [Note] Plugin 'FEDERATED' is disabled.
+111021 17:26:29 [Note] Plugin 'InnoDB' is disabled.
+111021 17:26:29 [Note] Event Scheduler: Loaded 0 events
+111021 17:26:29 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111021 17:42:11 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Normal shutdown
+
+111021 17:42:11 [Note] Event Scheduler: Purging the queue. 0 events
+111021 17:42:11 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+111021 17:42:15 [Note] Plugin 'FEDERATED' is disabled.
+111021 17:42:15 [Note] Plugin 'InnoDB' is disabled.
+111021 17:42:15 [Note] Event Scheduler: Loaded 0 events
+111021 17:42:15 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111021 17:43:50 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Normal shutdown
+
+111021 17:43:50 [Note] Event Scheduler: Purging the queue. 0 events
+111021 17:43:50 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+111021 17:43:53 [Note] Plugin 'FEDERATED' is disabled.
+111021 17:43:53 [Note] Plugin 'InnoDB' is disabled.
+111021 17:43:53 [Note] Event Scheduler: Loaded 0 events
+111021 17:43:53 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111021 17:45:48 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Normal shutdown
+
+111021 17:45:48 [Note] Event Scheduler: Purging the queue. 0 events
+111021 17:45:48 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+111021 17:45:52 [Note] Plugin 'FEDERATED' is disabled.
+111021 17:45:52 [Note] Plugin 'InnoDB' is disabled.
+111021 17:45:52 [Note] Event Scheduler: Loaded 0 events
+111021 17:45:52 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111021 18:52:15 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Normal shutdown
+
+111021 18:52:15 [Note] Event Scheduler: Purging the queue. 0 events
+111021 18:52:15 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+111021 18:52:22 [Note] Plugin 'FEDERATED' is disabled.
+111021 18:52:22 [Note] Plugin 'InnoDB' is disabled.
+111021 18:52:22 [Note] Event Scheduler: Loaded 0 events
+111021 18:52:22 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111021 18:55:33 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Normal shutdown
+
+111021 18:55:33 [Note] Event Scheduler: Purging the queue. 0 events
+111021 18:55:33 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+111021 18:57:04 [Note] Plugin 'FEDERATED' is disabled.
+111021 18:57:04 [Note] Plugin 'InnoDB' is disabled.
+111021 18:57:04 [Note] Event Scheduler: Loaded 0 events
+111021 18:57:04 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111021 18:58:23 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Normal shutdown
+
+111021 18:58:23 [Note] Event Scheduler: Purging the queue. 0 events
+111021 18:58:23 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+111021 18:58:28 [Note] Plugin 'FEDERATED' is disabled.
+111021 18:58:28 [Note] Plugin 'InnoDB' is disabled.
+111021 18:58:28 [Note] Event Scheduler: Loaded 0 events
+111021 18:58:28 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111021 18:59:19 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Normal shutdown
+
+111021 18:59:19 [Note] Event Scheduler: Purging the queue. 0 events
+111021 18:59:19 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+111021 18:59:23 [Note] Plugin 'FEDERATED' is disabled.
+111021 18:59:23 [Note] Plugin 'InnoDB' is disabled.
+111021 18:59:23 [Note] Event Scheduler: Loaded 0 events
+111021 18:59:23 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111021 19:11:16 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Normal shutdown
+
+111021 19:11:16 [Note] Event Scheduler: Purging the queue. 0 events
+111021 19:11:16 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+111021 19:11:19 [Note] Plugin 'FEDERATED' is disabled.
+111021 19:11:19 [Note] Plugin 'InnoDB' is disabled.
+111021 19:11:19 [Note] Event Scheduler: Loaded 0 events
+111021 19:11:19 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
+111021 19:33:50 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Normal shutdown
+
+111021 19:33:50 [Note] Event Scheduler: Purging the queue. 0 events
+111021 19:33:50 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: Shutdown complete
+
+111021 19:33:53 [Note] Plugin 'FEDERATED' is disabled.
+111021 19:33:53 InnoDB: The InnoDB memory heap is disabled
+111021 19:33:53 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+111021 19:33:53 InnoDB: Compressed tables use zlib 1.2.3
+111021 19:33:53 InnoDB: Initializing buffer pool, size = 16.0M
+111021 19:33:53 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file C:\UniServer\usr\local\mysql\data\ibdata1 did not exist:
+InnoDB: a new database to be created!
+111021 19:33:54  InnoDB: Setting file C:\UniServer\usr\local\mysql\data\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+111021 19:33:54  InnoDB: Log file C:\UniServer\usr\local\mysql\data\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file C:\UniServer\usr\local\mysql\data\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+111021 19:33:54  InnoDB: Log file C:\UniServer\usr\local\mysql\data\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file C:\UniServer\usr\local\mysql\data\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+111021 19:33:56  InnoDB: Waiting for the background threads to start
+111021 19:33:57 InnoDB: 1.1.8 started; log sequence number 0
+111021 19:33:57 [Note] Event Scheduler: Loaded 0 events
+111021 19:33:57 [Note] C:/UniServer/usr/local/mysql/bin/mysqld-opt.exe: ready for connections.
+Version: '5.5.15'  socket: ''  port: 3306  MySQL Community Server (GPL)
